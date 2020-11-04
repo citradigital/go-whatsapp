@@ -9,8 +9,8 @@ import (
 
 	"time"
 
-	"github.com/Rhymen/go-whatsapp/binary"
-	"github.com/Rhymen/go-whatsapp/crypto/cbc"
+	"github.com/citradigital/go-whatsapp/binary"
+	"github.com/citradigital/go-whatsapp/crypto/cbc"
 	"github.com/gorilla/websocket"
 	"github.com/pkg/errors"
 )
