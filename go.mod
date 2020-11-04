@@ -1,10 +1,10 @@
 module github.com/citradigital/go-whatsapp
 
 require (
-	github.com/citradigital/go-whatsapp/examples/echo v0.0.0-20190325075644-cc2581bbf24d // indirect
-	github.com/citradigital/go-whatsapp/examples/restoreSession v0.0.0-20190325075644-cc2581bbf24d // indirect
-	github.com/citradigital/go-whatsapp/examples/sendImage v0.0.0-20190325075644-cc2581bbf24d // indirect
-	github.com/citradigital/go-whatsapp/examples/sendTextMessages v0.0.0-20190325075644-cc2581bbf24d // indirect
+	github.com/citradigital/go-whatsapp/examples/echo citradigital
+	github.com/citradigital/go-whatsapp/examples/restoreSession citradigital
+	github.com/citradigital/go-whatsapp/examples/sendImage citradigital
+	github.com/citradigital/go-whatsapp/examples/sendTextMessages citradigital
 	github.com/golang/protobuf v1.3.0
 	github.com/gorilla/websocket v1.4.1
 	github.com/pkg/errors v0.8.1
